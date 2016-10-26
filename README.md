@@ -22,20 +22,24 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
-[partner_location_auto_create](partner_location_auto_create/) | 0.1 | Partner Location Auto Create
+[partner_location_auto_create](partner_location_auto_create/) | 8.0.0.1.0 | Partner Location Auto Create
+[stock_account_quant_merge](stock_account_quant_merge/) | 8.0.1.0.0 | Stock Account - Quant merge
 [stock_available](stock_available/) | 8.0.3.1.0 | Stock available to promise
 [stock_available_immediately](stock_available_immediately/) | 8.0.2.0.1 | Ignore planned receptions in quantity available to promise
-[stock_available_mrp](stock_available_mrp/) | 8.0.3.1.0 | Consider the production potential is available to promise
-[stock_available_sale](stock_available_sale/) | 8.0.3.0 | Quotations in quantity available to promise
+[stock_available_mrp](stock_available_mrp/) | 8.0.3.1.1 | Consider the production potential is available to promise
+[stock_available_sale](stock_available_sale/) | 8.0.3.0.0 | Quotations in quantity available to promise
 [stock_change_qty_reason](stock_change_qty_reason/) | 8.0.1.0.0 | Stock Quantity Change Reason
 [stock_inventory_hierarchical](stock_inventory_hierarchical/) | 8.0.2.0.0 | Group several Inventory adjustments in a master inventory
 [stock_inventory_line_price](stock_inventory_line_price/) | 8.0.1.0.0 | Standard price at inventory level
 [stock_inventory_lockdown](stock_inventory_lockdown/) | 8.0.1.0.0 | Lock down stock locations during inventories.
 [stock_inventory_preparation_filter](stock_inventory_preparation_filter/) | 8.0.1.0.0 | More filters for inventory adjustments
+[stock_inventory_revaluation](stock_inventory_revaluation/) | 8.0.1.0.0 | Introduces inventory revaluation as single point to change the valuation of products.
 [stock_location_area_data](stock_location_area_data/) | 8.0.0.1.0 | Add surface units of measure
 [stock_location_area_management](stock_location_area_management/) | 8.0.0.1.0 | Enter a location's area based on different units of measure
 [stock_location_ownership](stock_location_ownership/) | 8.0.0.1.0 | Stock Location Ownership
+[stock_lot_quantity](stock_lot_quantity/) | 8.0.1.0.0 | Stock quantity for serial number
 [stock_mts_mto_rule](stock_mts_mto_rule/) | 8.0.1.0.0 | Add a MTS+MTO route
+[stock_operation_type_location](stock_operation_type_location/) | 8.0.1.0.0 | Allows to filter locations on stock operations
 [stock_putaway_product](stock_putaway_product/) | 8.0.1.0.0 | Set a product location and put-away strategy per product
 [stock_quant_manual_assign](stock_quant_manual_assign/) | 8.0.1.1.0 | Stock - Manual assignment of quants
 [stock_quant_merge](stock_quant_merge/) | 8.0.1.0.0 | Stock - Quant merge
